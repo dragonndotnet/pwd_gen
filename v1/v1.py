@@ -1,7 +1,7 @@
 #To-Do
 """ -What if I want to gen more than 1 pwd?
 -That's right! I can't.
--To-Do: All of the above lmao
+-To-Do: All of the above lmao..
  """
 
 
